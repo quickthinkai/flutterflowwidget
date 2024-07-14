@@ -1,4 +1,4 @@
-# This is the code
+# This is the code of file name is NewCustomWidget
     // Automatic FlutterFlow imports
     import '/backend/schema/structs/index.dart';
     import '/backend/schema/enums/enums.dart';
