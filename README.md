@@ -51,19 +51,24 @@
 
 
 #add this line
+
+
           width: widget.width,
           height: widget.height,
 
 
-        
+#add this line     child:
+
+
+
           child: GradientText(
 
 
 #add this line
+         
+          
+          
           widget.text1!,
-
-
-
           
           style: TextStyle(
             fontSize: 40.0,
