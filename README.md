@@ -27,6 +27,9 @@
 
     
     this.text1,
+
+
+    
       });
 
       final double? width;
@@ -50,14 +53,14 @@
 
 
 
-#add this line
+#add these line
 
 
           width: widget.width,
           height: widget.height,
 
 
-#add this line     child:
+#add this word     child:
 
 
 
