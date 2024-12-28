@@ -1,4 +1,5 @@
 # This is the code of file name is NewCustomWidget
+# https://pub.dev/packages/simple_gradient_text/example
     // Automatic FlutterFlow imports
     import '/backend/schema/structs/index.dart';
     import '/backend/schema/enums/enums.dart';
