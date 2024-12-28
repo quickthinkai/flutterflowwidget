@@ -86,3 +86,5 @@
                   }
                   }
 
+# only one parameter is added
+simple_gradient_text: ^1.2.3
