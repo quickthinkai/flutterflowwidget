@@ -87,4 +87,5 @@
                   }
 
 # only one parameter is added
+text1    as string nullable
 simple_gradient_text: ^1.2.3
